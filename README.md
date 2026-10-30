@@ -4,6 +4,8 @@
 
 ![Scennect 프로젝트 화면](docs/images/scennect-overview.png)
 
+[▶ Scennect 시연 영상 보기 (YouTube)](https://www.youtube.com/watch?v=JQKjTBbVwCc)
+
 ## 왜 Scennect인가
 
 이미지를 여러 번 생성하고 수정할 때는 결과물뿐 아니라 어떤 프롬프트와 이미지에서 다음 결과가 만들어졌는지도 함께 확인할 필요가 있습니다. Scennect는 이 과정을 노드와 트리로 표현하고, 팀원들이 같은 프로젝트에서 작업할 수 있도록 기획한 창직종합설계 팀 프로젝트입니다.
